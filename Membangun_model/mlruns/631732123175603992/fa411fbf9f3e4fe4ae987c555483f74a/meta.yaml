@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Downloads/Eksperimen_SML_Hafis_Afrizal/Membangun_model/mlruns/631732123175603992/fa411fbf9f3e4fe4ae987c555483f74a/artifacts
+end_time: 1749384672729
+entry_point_name: ''
+experiment_id: '631732123175603992'
+lifecycle_stage: active
+run_id: fa411fbf9f3e4fe4ae987c555483f74a
+run_name: unique-bat-203
+run_uuid: fa411fbf9f3e4fe4ae987c555483f74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749384662001
+status: 3
+tags: []
+user_id: HP

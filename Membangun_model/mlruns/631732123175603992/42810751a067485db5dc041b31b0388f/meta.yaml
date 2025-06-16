@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Downloads/Eksperimen_SML_Hafis_Afrizal/Membangun_model/mlruns/631732123175603992/42810751a067485db5dc041b31b0388f/artifacts
+end_time: 1749384390406
+entry_point_name: ''
+experiment_id: '631732123175603992'
+lifecycle_stage: active
+run_id: 42810751a067485db5dc041b31b0388f
+run_name: handsome-goat-105
+run_uuid: 42810751a067485db5dc041b31b0388f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749384378888
+status: 3
+tags: []
+user_id: HP

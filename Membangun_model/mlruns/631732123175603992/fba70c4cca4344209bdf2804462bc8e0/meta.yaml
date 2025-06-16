@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Downloads/Eksperimen_SML_Hafis_Afrizal/Membangun_model/mlruns/631732123175603992/fba70c4cca4344209bdf2804462bc8e0/artifacts
+end_time: 1749384168389
+entry_point_name: ''
+experiment_id: '631732123175603992'
+lifecycle_stage: active
+run_id: fba70c4cca4344209bdf2804462bc8e0
+run_name: useful-quail-361
+run_uuid: fba70c4cca4344209bdf2804462bc8e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749384143492
+status: 3
+tags: []
+user_id: HP
